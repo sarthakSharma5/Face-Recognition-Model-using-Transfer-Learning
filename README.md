@@ -1,6 +1,6 @@
 # mltask4
 
-The repository contains to datasets one for training and the other for validation
+The repository contains two datasets one for training and the other for validation
 The dataset consists of 4 classes of images:
 1. Prime Minister Shree Narendra Modi
 2. Defence Minister Shree Rajnath Singh
